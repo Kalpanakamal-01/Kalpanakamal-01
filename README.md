@@ -60,7 +60,7 @@
 
             top: 75px; /* Adjust top position as needed */
 
-            left: 75px; /* Adjust left position as needed */
+            left: 50px; /* Adjust left position as needed */
 
         }
 
