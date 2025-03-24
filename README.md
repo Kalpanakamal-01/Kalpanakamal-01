@@ -48,9 +48,9 @@
 
         .profile-picture {
 
-            width: 50px; /* Adjust the size as needed */
+            width: 100px; /* Adjust the size as needed */
 
-            height: 50px;
+            height: 100px;
 
             border-radius: 75%; /* Create a circular shape */
 
